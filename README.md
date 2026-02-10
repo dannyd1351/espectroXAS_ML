@@ -1,6 +1,4 @@
-# espectroXAS_ML
-Physics-gated CNN for high-throughput O K-edge XAS prediction in transition metal oxides using DFT-derived descriptors
-
+# espectroXAS_ML: Physics-gated CNN for high-throughput O K-edge.
 An implementation of a 1D-Convolutional Neural Network (CNN) designed to predict Oxygen K-edge spectra in transition metal oxides using ground-state DFT descriptors.
 
 ## Physical Framework
